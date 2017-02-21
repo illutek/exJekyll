@@ -1,3 +1,2 @@
 baseurl: /exJekyll
 exclude: ['README.md']
-permalink: pretty
